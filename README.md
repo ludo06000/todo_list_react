@@ -11,6 +11,7 @@ npm install
 | ------------ | -------------------- |
 | UUID | [UUID DOC PAGE](https://www.npmjs.com/package/uuid) |
 | REDUX TOOLKIT | [REDUX TOOLKIT](https://redux-toolkit.js.org/introduction/getting-started) |
+| BOOTSTRAP| [BOOTSTRAP](https://getbootstrap.com/docs/5.3/getting-started/download/) |
 
 
 
